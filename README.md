@@ -4,4 +4,4 @@ This is my GitHub Account for all kinds of projects either ***work*** related or
 
 # Mandatory Glungus
 
-  ![glungus](/Bilder/glungus.png)
+  ![glungus](./Bilder/Glungus.png)
